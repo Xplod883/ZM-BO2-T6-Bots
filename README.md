@@ -1,6 +1,8 @@
 # ZM-BO2-T6-Bots
 An functional system of friendly bots for BO2/T6.
 
+If you want to put your work in the mod, go on, it's full open source, any help would be appreciated.
+
 Installation: Open Windows+R, write appdata, and follow this next direction: AppData/Local/Plutonium/storage/t6/mods (if you don't have a mods folder, create one with minus in all words) get into the folder and paste the zm_bots folder to it, now in the game, under all options is the Mods, select it and upload the mod. 
 
 For setting the bots write the next **set zm_bots #** ""# is the amount of bots you want in the game" You can upload maximum 7 bots in a game (I don't know if you can upload more in Grief Mode) and puting max. player in the party = 8 pressing P before starting a match.
