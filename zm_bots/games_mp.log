@@ -1,0 +1,633 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]CCSchneider
+  0:08 J;0;2;[3arc]GIDoron
+  0:09 J;0;3;[3arc]TJSchneider
+  0:10 J;0;4;[3arc]VKSharma
+  0:11 J;0;5;[3arc]MCG Gordon
+  0:12 J;0;6;[3arc]MLLeslie
+  0:13 J;0;7;[3arc]MLAM1A
+  0:45 ExitLevel: executed
+  0:45 ShutdownGame:
+  0:45 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]JMattis
+  0:08 J;0;2;[3arc]PTasker
+  0:09 J;0;3;[3arc]IJKowalski
+  0:10 J;0;4;[3arc]CCSchneider
+  0:11 J;0;5;[3arc]GIDoron
+  0:12 J;0;6;[3arc]TJSchneider
+  0:13 J;0;7;[3arc]VKSharma
+  1:19 Weapon;0;4;CCSchneider;frag_grenade_zm
+  2:38 ExitLevel: executed
+  2:38 ShutdownGame:
+  2:38 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]RFeltrin
+  0:08 J;0;2;[3arc]SJCrowe
+  0:09 J;0;3;[3arc]BNandakumar
+  0:10 J;0;4;[3arc]RMoffat
+  0:11 J;0;5;[3arc]AHoggatt
+  0:12 J;0;6;[3arc]CCowell
+  0:13 J;0;7;[3arc]SNouriani
+ 16:29 ShutdownGame:
+ 16:29 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]LZide
+  0:08 J;0;2;[3arc]MSoriano
+  0:09 J;0;3;[3arc]CKennedy
+  0:10 J;0;4;[3arc]KTakacs
+  0:11 J;0;5;[3arc]SEldredge
+  0:12 J;0;6;[3arc]TMcDevitt
+  0:13 J;0;7;[3arc]RFord
+  0:32 ExitLevel: executed
+  0:32 ShutdownGame:
+  0:32 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]MA Ainuddin
+  0:08 J;0;2;[3arc]JK Kohler
+  0:09 J;0;3;[3arc]CCNelson
+  0:10 J;0;4;[3arc]TBFlame
+  0:11 J;0;5;[3arc]MYYetter
+  0:12 J;0;6;[3arc]DSGermann
+  0:13 J;0;7;[3arc]TMRapp
+  1:31 ExitLevel: executed
+  1:31 ShutdownGame:
+  1:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]RFord
+  0:08 J;0;2;[3arc]Larry
+  0:09 J;0;3;[3arc]DVonderhaar
+  0:10 J;0;4;[3arc]DBunting
+  0:11 J;0;5;[3arc]AConserva
+  0:12 J;0;6;[3arc]MScronce
+  0:13 J;0;7;[3arc]RFeltrin
+  1:55 ShutdownGame:
+  1:55 ------------------------------------------------------------
+  1:55 ------------------------------------------------------------
+  1:55 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  1:55 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  1:55 J;2993466;0;Xplod_
+  2:02 J;0;1;[3arc]SJCrowe
+  2:03 J;0;2;[3arc]BNandakumar
+  2:04 J;0;3;[3arc]RMoffat
+  2:05 J;0;4;[3arc]AHoggatt
+  2:06 J;0;5;[3arc]CCowell
+  2:07 J;0;6;[3arc]SNouriani
+  2:08 J;0;7;[3arc]SRoud
+  8:27 ExitLevel: executed
+  8:27 ShutdownGame:
+  8:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]PBabar
+  0:08 J;0;2;[3arc]JMattis
+  0:09 J;0;3;[3arc]PTasker
+  0:10 J;0;4;[3arc]IJKowalski
+  0:11 J;0;5;[3arc]CCSchneider
+  0:12 J;0;6;[3arc]GIDoron
+  0:13 J;0;7;[3arc]TJSchneider
+  3:14 ExitLevel: executed
+  3:14 ShutdownGame:
+  3:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]VKSharma
+  0:08 J;0;2;[3arc]MCG Gordon
+  0:09 J;0;3;[3arc]MLLeslie
+  2:48 ExitLevel: executed
+  2:48 ShutdownGame:
+  2:48 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:33 ExitLevel: executed
+  0:33 ShutdownGame:
+  0:33 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]DAA Anthony
+  0:08 J;0;2;[3arc]MDonlon
+  0:09 J;0;3;[3arc]AKrauss
+  2:25 Weapon;0;1;DAA Anthony;frag_grenade_zm
+  3:14 ShutdownGame:
+  3:14 ------------------------------------------------------------
+  3:14 ------------------------------------------------------------
+  3:14 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  3:14 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  3:15 J;2993466;0;Xplod_
+  3:21 J;0;1;[3arc]GJNg
+  3:22 J;0;2;[3arc]EFRich
+  3:23 J;0;3;[3arc]TJKeegan
+  3:58 ExitLevel: executed
+  3:58 ShutdownGame:
+  3:58 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]BNandakumar
+  0:08 J;0;2;[3arc]RMoffat
+  0:09 J;0;3;[3arc]AHoggatt
+  7:48 ExitLevel: executed
+  7:48 ShutdownGame:
+  7:48 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]CCowell
+  0:08 J;0;2;[3arc]SNouriani
+  0:09 J;0;3;[3arc]SRoud
+  0:10 J;0;4;[3arc]PBabar
+  0:11 J;0;5;[3arc]JMattis
+  0:12 J;0;6;[3arc]PTasker
+  0:13 J;0;7;[3arc]IJKowalski
+  0:29 Q;0;1;[3arc]CCowell
+  0:29 Q;0;2;[3arc]SNouriani
+  0:29 Q;0;3;[3arc]SRoud
+  0:29 Q;0;4;[3arc]PBabar
+  0:29 Q;0;5;[3arc]JMattis
+  0:29 Q;0;6;[3arc]PTasker
+  0:29 Q;0;7;[3arc]IJKowalski
+  0:29 ShutdownGame:
+  0:29 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]TMcDevitt
+  0:08 J;0;2;[3arc]RFord
+  0:09 J;0;3;[3arc]Larry
+  8:16 Weapon;0;2;RFord;frag_grenade_zm
+ 15:21 Weapon;0;3;Larry;frag_grenade_zm
+ 21:27 ExitLevel: executed
+ 21:27 ShutdownGame:
+ 21:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]DSGermann
+  0:08 J;0;2;[3arc]TMRapp
+  0:09 J;0;3;[3arc]LZide
+  2:16 Q;0;1;[3arc]DSGermann
+  2:16 Q;0;2;[3arc]TMRapp
+  2:16 Q;0;3;[3arc]LZide
+  2:16 ShutdownGame:
+  2:16 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]CStastny
+  0:08 J;0;2;[3arc]MManto
+  0:09 J;0;3;[3arc]BHutchinson
+ 12:16 Weapon;0;1;CStastny;frag_grenade_zm
+ 17:51 Weapon;0;2;MManto;frag_grenade_zm
+ 26:43 ExitLevel: executed
+ 26:43 ShutdownGame:
+ 26:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_prison\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_prison\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]BNandakumar
+  0:08 J;0;2;[3arc]RMoffat
+  0:09 J;0;3;[3arc]AHoggatt
+ 10:59 ExitLevel: executed
+ 10:59 ShutdownGame:
+ 10:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]CCowell
+  0:08 J;0;2;[3arc]SNouriani
+  0:09 J;0;3;[3arc]SRoud
+  0:10 J;0;4;[3arc]PBabar
+  0:11 J;0;5;[3arc]JMattis
+  0:12 J;0;6;[3arc]PTasker
+  0:13 J;0;7;[3arc]IJKowalski
+  0:23 Q;0;1;[3arc]CCowell
+  0:23 Q;0;2;[3arc]SNouriani
+  0:23 Q;0;3;[3arc]SRoud
+  0:23 Q;0;4;[3arc]PBabar
+  0:23 Q;0;5;[3arc]JMattis
+  0:23 Q;0;6;[3arc]PTasker
+  0:23 Q;0;7;[3arc]IJKowalski
+  0:23 ShutdownGame:
+  0:23 ------------------------------------------------------------
+  0:23 ------------------------------------------------------------
+  0:23 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:23 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:24 J;2993466;0;Xplod_
+  0:30 J;0;1;[3arc]CCSchneider
+  0:31 J;0;2;[3arc]GIDoron
+  0:32 J;0;3;[3arc]TJSchneider
+  0:33 J;0;4;[3arc]VKSharma
+  0:34 J;0;5;[3arc]MCG Gordon
+  0:35 J;0;6;[3arc]MLLeslie
+  0:36 J;0;7;[3arc]MLAM1A
+  7:09 Weapon;0;1;CCSchneider;frag_grenade_zm
+ 18:47 ExitLevel: executed
+ 18:47 ShutdownGame:
+ 18:47 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]TJKeegan
+  0:08 J;0;2;[3arc]ABhura
+  0:09 J;0;3;[3arc]BLMercado
+  2:04 Weapon;0;2;ABhura;frag_grenade_zm
+  2:06 Weapon;0;2;ABhura;frag_grenade_zm
+  6:39 ExitLevel: executed
+  6:39 ShutdownGame:
+  6:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]MCG Gordon
+  0:08 J;0;2;[3arc]MLLeslie
+  0:09 J;0;3;[3arc]MLAM1A
+  0:25 Q;0;1;[3arc]MCG Gordon
+  0:25 Q;0;2;[3arc]MLLeslie
+  0:25 Q;0;3;[3arc]MLAM1A
+  0:25 ShutdownGame:
+  0:25 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]TMcDevitt
+  0:08 J;0;2;[3arc]RFord
+  0:09 J;0;3;[3arc]Larry
+  0:10 J;0;4;[3arc]DVonderhaar
+  0:11 J;0;5;[3arc]DBunting
+  0:12 J;0;6;[3arc]AConserva
+  0:13 J;0;7;[3arc]MScronce
+  0:20 Q;0;1;[3arc]TMcDevitt
+  0:20 Q;0;2;[3arc]RFord
+  0:20 Q;0;3;[3arc]Larry
+  0:20 Q;0;4;[3arc]DVonderhaar
+  0:20 Q;0;5;[3arc]DBunting
+  0:21 Q;0;6;[3arc]AConserva
+  0:21 Q;0;7;[3arc]MScronce
+  0:42 ExitLevel: executed
+  0:42 ShutdownGame:
+  0:42 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]SRoud
+  0:08 J;0;2;[3arc]PBabar
+  0:09 J;0;3;[3arc]JMattis
+  1:09 Q;0;1;[3arc]SRoud
+  1:09 Q;0;2;[3arc]PBabar
+  1:09 Q;0;3;[3arc]JMattis
+  1:31 ExitLevel: executed
+  1:31 ShutdownGame:
+  1:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]TBFlame
+  0:08 J;0;2;[3arc]MYYetter
+  0:09 J;0;3;[3arc]DSGermann
+  0:10 J;0;4;[3arc]TMRapp
+  0:11 J;0;5;[3arc]LZide
+  0:12 J;0;6;[3arc]MSoriano
+  0:13 J;0;7;[3arc]CKennedy
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]TJKeegan
+  0:08 J;0;2;[3arc]ABhura
+  0:09 J;0;3;[3arc]BLMercado
+  0:10 J;0;4;[3arc]JMorelli
+  0:11 J;0;5;[3arc]KTouevsky
+  0:12 J;0;6;[3arc]EOughton
+  0:13 J;0;7;[3arc]CStastny
+  0:45 ShutdownGame:
+  0:45 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]RFeltrin
+  0:08 J;0;2;[3arc]SJCrowe
+  0:09 J;0;3;[3arc]BNandakumar
+  0:10 J;0;4;[3arc]RMoffat
+  0:11 J;0;5;[3arc]AHoggatt
+  0:12 J;0;6;[3arc]CCowell
+  0:13 J;0;7;[3arc]SNouriani
+  0:45 ShutdownGame:
+  0:45 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]AConserva
+  0:08 J;0;2;[3arc]MScronce
+  0:09 J;0;3;[3arc]RFeltrin
+  0:10 J;0;4;[3arc]SJCrowe
+  0:11 J;0;5;[3arc]BNandakumar
+  0:12 J;0;6;[3arc]RMoffat
+  0:13 J;0;7;[3arc]AHoggatt
+  0:45 ShutdownGame:
+  0:45 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]PBabar
+  0:08 J;0;2;[3arc]JMattis
+  0:09 J;0;3;[3arc]PTasker
+  1:45 ShutdownGame:
+  1:45 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]RFord
+  0:08 J;0;2;[3arc]Larry
+  0:09 J;0;3;[3arc]DVonderhaar
+  0:10 J;0;4;[3arc]DBunting
+  0:11 J;0;5;[3arc]AConserva
+  0:12 J;0;6;[3arc]MScronce
+  0:13 J;0;7;[3arc]RFeltrin
+  0:48 ShutdownGame:
+  0:48 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]TurnerCJ
+  0:08 J;0;2;[3arc]MA Ainuddin
+  0:09 J;0;3;[3arc]JK Kohler
+  0:10 J;0;4;[3arc]CCNelson
+  0:11 J;0;5;[3arc]TBFlame
+  0:12 J;0;6;[3arc]MYYetter
+  0:13 J;0;7;[3arc]DSGermann
+  0:48 ShutdownGame:
+  0:48 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]TMRapp
+  0:08 J;0;2;[3arc]LZide
+  0:09 J;0;3;[3arc]MSoriano
+  1:43 ShutdownGame:
+  1:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]DAA Anthony
+  0:08 J;0;2;[3arc]MDonlon
+  0:09 J;0;3;[3arc]AKrauss
+  0:10 J;0;4;[3arc]GJNg
+  0:11 J;0;5;[3arc]EFRich
+  0:12 J;0;6;[3arc]TJKeegan
+  0:13 J;0;7;[3arc]ABhura
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]DMRoche
+  0:08 J;0;2;[3arc]DAA Anthony
+  0:09 J;0;3;[3arc]MDonlon
+  0:10 J;0;4;[3arc]AKrauss
+  0:11 J;0;5;[3arc]GJNg
+  0:12 J;0;6;[3arc]EFRich
+  0:13 J;0;7;[3arc]TJKeegan
+  9:00 ExitLevel: executed
+  9:00 ShutdownGame:
+  9:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]ABhura
+  0:08 J;0;2;[3arc]BLMercado
+  0:09 J;0;3;[3arc]JMorelli
+  0:10 J;0;4;[3arc]KTouevsky
+  0:11 J;0;5;[3arc]EOughton
+  0:12 J;0;6;[3arc]CStastny
+  0:13 J;0;7;[3arc]MManto
+  3:59 ExitLevel: executed
+  3:59 ShutdownGame:
+  3:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]BHutchinson
+  0:08 J;0;2;[3arc]PorterMM
+  0:09 J;0;3;[3arc]TurnerCJ
+  2:25 ExitLevel: executed
+  2:25 ShutdownGame:
+  2:25 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]MA Ainuddin
+  0:08 J;0;2;[3arc]JK Kohler
+  0:09 J;0;3;[3arc]CCNelson
+  0:10 J;0;4;[3arc]TBFlame
+  0:11 J;0;5;[3arc]MYYetter
+  0:12 J;0;6;[3arc]DSGermann
+  0:13 J;0;7;[3arc]TMRapp
+  0:31 ExitLevel: executed
+  0:31 ShutdownGame:
+  0:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]LZide
+  0:08 J;0;2;[3arc]MSoriano
+  0:09 J;0;3;[3arc]CKennedy
+  0:10 J;0;4;[3arc]KTakacs
+  0:11 J;0;5;[3arc]SEldredge
+  0:12 J;0;6;[3arc]TMcDevitt
+  0:13 J;0;7;[3arc]RFord
+  1:49 ExitLevel: executed
+  1:49 ShutdownGame:
+  1:49 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_prison\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_prison\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]Larry
+  0:08 J;0;2;[3arc]DVonderhaar
+  0:09 J;0;3;[3arc]DBunting
+  0:10 J;0;4;[3arc]AConserva
+  0:11 J;0;5;[3arc]MScronce
+  0:12 J;0;6;[3arc]RFeltrin
+  0:13 J;0;7;[3arc]SJCrowe
+  4:17 ExitLevel: executed
+  4:17 ShutdownGame:
+  4:17 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_buried\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_buried\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]BNandakumar
+  0:08 J;0;2;[3arc]RMoffat
+  0:09 J;0;3;[3arc]AHoggatt
+  0:10 J;0;4;[3arc]CCowell
+  0:11 J;0;5;[3arc]SNouriani
+  0:12 J;0;6;[3arc]SRoud
+  0:13 J;0;7;[3arc]PBabar
+  2:08 ExitLevel: executed
+  2:08 ShutdownGame:
+  2:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zclassic\g_randomSeed\0\gamename\PT6ZM\mapname\zm_tomb\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]JMattis
+  0:08 J;0;2;[3arc]PTasker
+  0:09 J;0;3;[3arc]IJKowalski
+  0:10 J;0;4;[3arc]CCSchneider
+  0:11 J;0;5;[3arc]GIDoron
+  0:12 J;0;6;[3arc]TJSchneider
+  0:13 J;0;7;[3arc]VKSharma
+  1:26 ExitLevel: executed
+  1:26 ShutdownGame:
+  1:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]BLMercado
+  0:08 J;0;2;[3arc]JMorelli
+  0:09 J;0;3;[3arc]KTouevsky
+  0:10 J;0;4;[3arc]EOughton
+  0:11 J;0;5;[3arc]CStastny
+  0:12 J;0;6;[3arc]MManto
+  0:13 J;0;7;[3arc]BHutchinson
+ 19:33 ExitLevel: executed
+ 19:33 ShutdownGame:
+ 19:33 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1
+  0:00 InitGame: \com_maxclients\8\fs_game\mods/zm_bots\g_gametype\zstandard\g_randomSeed\0\gamename\PT6ZM\mapname\zm_transit\playlist_enabled\0\playlist_entry\0\protocol\2089\scr_team_fftype\1\shortversion\r5334\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_clientFpsLimit\0\sv_disableClientConsole\0\sv_hostname\Private Match\sv_maxclients\8\sv_maxPing\0\sv_minPing\0\sv_privateClients\0\sv_privateClientsForClients\0\sv_pure\0\sv_voice\1\g_logTimeStampInSeconds\0
+  0:00 J;2993466;0;Xplod_
+  0:07 J;0;1;[3arc]PorterMM
+  0:08 J;0;2;[3arc]TurnerCJ
+  0:09 J;0;3;[3arc]MA Ainuddin
+  0:10 J;0;4;[3arc]JK Kohler
+  0:11 J;0;5;[3arc]CCNelson
+  0:12 J;0;6;[3arc]TBFlame
+  0:13 J;0;7;[3arc]MYYetter
+  2:53 ExitLevel: executed
+  2:53 ShutdownGame:
+  2:53 ------------------------------------------------------------
