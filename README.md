@@ -8,7 +8,15 @@ For setting the bots write the next **set zm_bots #** ""# is the amount of bots 
 You can control the bots using LB+X/L1+Square/6 for make them wander/follow you/stay, is an inspiration for the BO3 ZM Bots Mod.
 
 You can teleport all the bots to your position, press twice L3/L/5.
-.......................................................................................
+
+This bot is obviously just for having fun, because the full funcionality in specific maps was not implemented yet, I was working in Origins for the full funcionality for the bots (pick craftables, activate generators, dig, etc.) and that is like an ambition I have, make that for all maps (MOTD like Origins, Buried, Die Rise and Tranzit) with the NavMesh fully implemented, make the system for the bots to make EE's, but that's too ambitious, like I say, I began with Origins, but is a tedious work, so I'll better upload this for the community to taste/play.
+
+If you detect a bug/issue in the mod, you can write the comment in the Plutonium forum/Github issues.
+
+Thank you for your attention pal', especially for GerardS0406, BySc, techboy04gaming and RIKk01 that make this possible before this.
+
+====================================================================================================================================================================================================
+
 I made some fixes about the uploaded files of RIKk01 of the mod in April 2026, seeing that the incredible job he, and GerardS0406, BySc and techboy04gaming made for this wakes me an interested in working and adding my own touch to the mod. I made a lot of implementations/fixes about the .gsc files, and here is all I made, you can call this as the changelog if you want:
 
 spawned_player fires again on the same entity every time a bot revives without death firing first. As a result, the entire thread tree from bot_main()/bot_health() of the previous life stayed alive forever, and every respawn stacked a full new copy on top. This exhausted the engine's child script variable limit, the error was everytime popping up as a: "exceeded maximum number of child server script variables" within 1-2 minutes with 3-7 bots, more minutes with a game of 4 players (1 player/3 bots) and 30s-1min with 8 players (1 player/7 bots).
@@ -113,9 +121,3 @@ With bot_force_door_nearby, the bot ran on every wakeup tick (as often as every 
 bot_buy_door() now checks isdefined(door) and isdefined(door.origin) before operating on each door. bot_buy_wallbuy() now checks that level._spawned_wallbuys exists and has elements before calling array_randomize() on it, this was previously a guaranteed error on maps/modes that don't populate it.
 
 The detection radius of doors extended from 90000 to 250000 (units^2); debris reduced from 160000 to 90000, for more realistic behavior for each, independently.
-....................................................................................................................................................................................................
-This bot is obviously just for having fun, because the full funcionality in specific maps was not implemented yet, I was working in Origins for the full funcionality for the bots (pick craftables, activate generators, dig, etc.) and that is like an ambition I have, make that for all maps (MOTD like Origins, Buried, Die Rise and Tranzit) with the NavMesh fully implemented, make the system for the bots to make EE's, but that's too ambitious, like I say, I began with Origins, but is a tedious work, so I'll better upload this for the community to taste/play.
-
-If you detect a bug/issue in the mod, you can write the comment in the Plutonium forum/Github issues.
-
-Thank you for your attention pal', especially for GerardS0406, BySc, techboy04gaming and RIKk01 that make this possible before this.
