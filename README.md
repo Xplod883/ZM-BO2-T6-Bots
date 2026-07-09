@@ -1,6 +1,14 @@
 # ZM-BO2-T6-Bots
 An functional system for implement bos for BO2/T6.
 
+Installation: Open Windows+R, write appdata, and follow this next direction: AppData/Local/Plutonium/storage/t6/mods (if you don't have a mods folder, create one with minus in all words) get into the folder and paste the zm_bots folder to it, now in the game, under all options is the Mods, select it and upload the mod. 
+
+For setting the bots write the next **set zm_bots #** ""# is the amount of bots you want in the game" You can upload maximum 7 bots in a game (I don't know if you can upload more in Grief Mode) and puting max. player in the party = 8 pressing P before starting a match.
+
+You can control the bots using LB+X/L1+Square/6 for make them wander/follow you/stay, is an inspiration for the BO3 ZM Bots Mod.
+
+You can teleport all the bots to your position, press twice L3/L/5.
+.......................................................................................
 I made some fixes about the uploaded files of RIKk01 of the mod in April 2026, seeing that the incredible job he, and GerardS0406, BySc and techboy04gaming made for this wakes me an interested in working and adding my own touch to the mod. I made a lot of implementations/fixes about the .gsc files, and here is all I made, you can call this as the changelog if you want:
 
 spawned_player fires again on the same entity every time a bot revives without death firing first. As a result, the entire thread tree from bot_main()/bot_health() of the previous life stayed alive forever, and every respawn stacked a full new copy on top. This exhausted the engine's child script variable limit, the error was everytime popping up as a: "exceeded maximum number of child server script variables" within 1-2 minutes with 3-7 bots, more minutes with a game of 4 players (1 player/3 bots) and 30s-1min with 8 players (1 player/7 bots).
