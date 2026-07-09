@@ -57,8 +57,6 @@ Previously, a bot deep-exploring toward a far area got yanked back to the human 
 
 Bots that aren't actively reviving now form a perimeter around the downed player with guard_claimer_count, max 2 guards, random offset to avoid clustering, instead of continuing their normal routine and leaving the reviver exposed.
 
-This was an inspiration of the ZM Bots mod of BO3/BOIII, I implemented a button combo (L1/LB + Square/X) movement behavior between wander (normal) or follow (follow the player who triggered the command) or stay (hold position) or again wander and like that every time we push the buttons. Implemented via level.bot_tomb_command_mode and level.bot_tomb_commander. This doesn't interfere with combat, reviving, or box purchases, those guards still take priority.
-
 With bot_leader_kite_update(), this computes the center of mass of nearby zombies with bot_get_zombie_cluster_center(), the bot moves tangentially (perpendicular) to create a real loop instead of a straight-line retreat, with a random direction reversal every 8-16s so the horde doesn't learn to cut across. It doesn't interrupt a shot that's already lined up.
 bot_maintain_kiting_formation() is the same principle, but only acts if the bot is closer to the horde than the leader.
 
