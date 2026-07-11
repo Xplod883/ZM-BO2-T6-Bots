@@ -17,4 +17,4 @@ If you detect a bug/issue in the mod, you can write the comment in the Plutonium
 
 Thank you for your attention pal', especially for GerardS0406, BySc, techboy04gaming and RIKk01 that make this possible before this.
 
-The release of the Version 0.1.1 are already done, fixed some bugs/errors in bots system/logic/algorithm. Enjoy!
+The release of the Version 0.1.1 are already done, fixed some bugs/errors in bots system/logic/algorithm that will be listed in the releases section. Enjoy!
