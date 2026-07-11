@@ -1,4 +1,7 @@
 # ZM-BO2-T6-Bots
+
+The release of the Version 0.1.1 are already done, fixed some bugs/errors in bots system/logic/algorithm that will be listed in the releases section. Enjoy!
+
 An functional system of friendly bots for BO2/T6.
 
 If you want to put your work in the mod, go on, it's full open source, any help would be appreciated.
@@ -16,5 +19,3 @@ This bot is obviously just for having fun, because the full funcionality in spec
 If you detect a bug/issue in the mod, you can write the comment in the Plutonium forum/Github issues.
 
 Thank you for your attention pal', especially for GerardS0406, BySc, techboy04gaming and RIKk01 that make this possible before this.
-
-The release of the Version 0.1.1 are already done, fixed some bugs/errors in bots system/logic/algorithm that will be listed in the releases section. Enjoy!
