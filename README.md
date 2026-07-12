@@ -1,6 +1,6 @@
 # ZM-BO2-T6-Bots
 
-The new release of the Version 0.1.3 are already done, fixed some memory errors that will be listed in the releases section. Enjoy!
+The new release of the Version 0.2 are already done, uploaded the files for the AI system for bots for Origins, don't worry, you can play the mod without problem in all maps, the new files are specifically for Origins. The changelog will be listed in the releases section. Enjoy!
 
 An functional system of friendly bots for BO2/T6.
 
